@@ -10,6 +10,7 @@ It includes data visualization, model training, evaluation, and feature analysis
 ## 📂 Project Structure
 - `APR_assignment1.ipynb` → Main script (training + evaluation + plots)
 - `README.md` → Documentation
+- APR-Assignment1-report ->report
 
 ---
 
@@ -48,3 +49,6 @@ Target classes:
    - Pairplot of features by class  
    - Confusion matrix heatmap  
    - Feature means & variances per class  
+**Credentials:**
+   -Parepally Sasya Sri Harshitha
+   -2201CS52
